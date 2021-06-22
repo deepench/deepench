@@ -21,16 +21,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#346](https://github.com/wpeverest/user-registration/pull/346) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-2. 🗣 Commented on [#8498](https://github.com/education/GitHubGraduation-2021/issues/8498) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-3. 💪 Opened PR [#8632](https://github.com/education/GitHubGraduation-2021/pull/8632) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-4. 🗣 Commented on [#8498](https://github.com/education/GitHubGraduation-2021/issues/8498) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. ❗️ Opened issue [#8498](https://github.com/education/GitHubGraduation-2021/issues/8498) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-1. 💪 Opened PR [#347](https://github.com/wpeverest/user-registration/pull/347) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-2. 💪 Opened PR [#346](https://github.com/wpeverest/user-registration/pull/346) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-3. 🗣 Commented on [#8498](https://github.com/education/GitHubGraduation-2021/issues/8498) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-4. 💪 Opened PR [#8632](https://github.com/education/GitHubGraduation-2021/pull/8632) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. 🗣 Commented on [#8498](https://github.com/education/GitHubGraduation-2021/issues/8498) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+1. 💪 Opened PR [#348](https://github.com/wpeverest/user-registration/pull/348) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+2. 💪 Opened PR [#342](https://github.com/wpeverest/user-registration/pull/342) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+3. 🗣 Commented on [#337](https://github.com/wpeverest/user-registration/issues/337) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+4. 💪 Opened PR [#340](https://github.com/wpeverest/user-registration/pull/340) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+5. 💪 Opened PR [#339](https://github.com/wpeverest/user-registration/pull/339) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+6. 💪 Opened PR [#335](https://github.com/wpeverest/user-registration/pull/335) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+7. 💪 Opened PR [#329](https://github.com/wpeverest/user-registration/pull/329) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+8. 💪 Opened PR [#328](https://github.com/wpeverest/user-registration/pull/328) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+9. 💪 Opened PR [#326](https://github.com/wpeverest/user-registration/pull/326) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+10. 💪 Opened PR [#317](https://github.com/wpeverest/user-registration/pull/317) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
 <!--END_SECTION:activity-->
 
 </details>
