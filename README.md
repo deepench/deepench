@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepench&label=Profile%20views&color=0e75b6&style=flat" alt="deepench" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepench" alt="deepench" /></a> </p>
 <p align="left">  <a href="https://twitter.com/chaudharydeependra" target="blank"><img src="https://img.shields.io/twitter/follow/deepen1235?logo=twitter&style=for-the-badge" alt="deepen1235" /></a></p>
-- 👨‍💻 All of my projects are available at [https://github.com/deepench?tab=repositories](https://github.com/deepench)
+- 👨‍💻 All of my projects are available at [https://github.com/deepench?tab=repositories]
 - 📫 How to reach me **deependra.we@gmail.com**
 - ⚡ Fun fact **I think I'm optimist😋.**
 <h3 align="left">Connect with me:</h3>
