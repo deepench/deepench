@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#934](https://github.com/wpeverest/everest-forms/pull/934) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-2. 💪 Opened PR [#934](https://github.com/wpeverest/everest-forms/pull/934) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-3. 🎉 Merged PR [#898](https://github.com/wpeverest/everest-forms/pull/898) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-4. 🎉 Merged PR [#924](https://github.com/wpeverest/everest-forms/pull/924) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-5. 🎉 Merged PR [#921](https://github.com/wpeverest/everest-forms/pull/921) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-6. 🎉 Merged PR [#922](https://github.com/wpeverest/everest-forms/pull/922) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-7. 🎉 Merged PR [#929](https://github.com/wpeverest/everest-forms/pull/929) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-8. 💪 Opened PR [#929](https://github.com/wpeverest/everest-forms/pull/929) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-9. 💪 Opened PR [#927](https://github.com/wpeverest/everest-forms/pull/927) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-10. 💪 Opened PR [#922](https://github.com/wpeverest/everest-forms/pull/922) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+1. 💪 Opened PR [#950](https://github.com/wpeverest/everest-forms/pull/950) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+2. 🎉 Merged PR [#934](https://github.com/wpeverest/everest-forms/pull/934) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+3. 💪 Opened PR [#934](https://github.com/wpeverest/everest-forms/pull/934) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+4. 🎉 Merged PR [#898](https://github.com/wpeverest/everest-forms/pull/898) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+5. 🎉 Merged PR [#924](https://github.com/wpeverest/everest-forms/pull/924) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+6. 🎉 Merged PR [#921](https://github.com/wpeverest/everest-forms/pull/921) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+7. 🎉 Merged PR [#922](https://github.com/wpeverest/everest-forms/pull/922) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+8. 🎉 Merged PR [#929](https://github.com/wpeverest/everest-forms/pull/929) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+9. 💪 Opened PR [#929](https://github.com/wpeverest/everest-forms/pull/929) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+10. 💪 Opened PR [#927](https://github.com/wpeverest/everest-forms/pull/927) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 <!--END_SECTION:activity-->
 
 </details>
