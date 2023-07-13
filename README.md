@@ -26,7 +26,7 @@
 5. 🎉 Merged PR [#1122](https://github.com/wpeverest/everest-forms/pull/1122) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 6. 💪 Opened PR [#576](https://github.com/wpeverest/user-registration/pull/576) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
 7. 💪 Opened PR [#567](https://github.com/wpeverest/user-registration/pull/567) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-8. 🚀 Published release [2.0.1](https://github.com/2.0.1) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+8. 🚀 Published release [2.0.1](https://github.com/wpeverest/everest-forms/releases/tag/2.0.1) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 9. 🎉 Merged PR [#1114](https://github.com/wpeverest/everest-forms/pull/1114) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 10. 🎉 Merged PR [#1084](https://github.com/wpeverest/everest-forms/pull/1084) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 <!--END_SECTION:activity-->
