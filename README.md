@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release of 1.0.0](https://github.com/wpeverest/ai-contact-form/releases/tag/1.0.0) in [wpeverest/ai-contact-form](https://github.com/wpeverest/ai-contact-form)
+1. 🚀 Published release [Release of 1.0.1](https://github.com/wpeverest/ai-contact-form/releases/tag/1.0.1) in [wpeverest/ai-contact-form](https://github.com/wpeverest/ai-contact-form)
 2. 🚀 Published release [Release of 1.0.0](https://github.com/wpeverest/ai-contact-form/releases/tag/1.0.0) in [wpeverest/ai-contact-form](https://github.com/wpeverest/ai-contact-form)
 3. 🚀 Published release [Release of 1.0.0](https://github.com/wpeverest/ai-contact-form/releases/tag/1.0.0) in [wpeverest/ai-contact-form](https://github.com/wpeverest/ai-contact-form)
-4. 🚀 Published release [1.0.1](https://github.com/wpeverest/ai-contact-form/releases/tag/1.0.1) in [wpeverest/ai-contact-form](https://github.com/wpeverest/ai-contact-form)
-5. 🚀 Published release [2.0.5](https://github.com/wpeverest/everest-forms/releases/tag/2.0.5) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-6. 🎉 Merged PR [#1171](https://github.com/wpeverest/everest-forms/pull/1171) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-7. 🎉 Merged PR [#1176](https://github.com/wpeverest/everest-forms/pull/1176) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-8. 💪 Opened PR [#1176](https://github.com/wpeverest/everest-forms/pull/1176) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-9. 🎉 Merged PR [#1161](https://github.com/wpeverest/everest-forms/pull/1161) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-10. 🎉 Merged PR [#1156](https://github.com/wpeverest/everest-forms/pull/1156) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+4. 🚀 Published release [Release of 1.0.0](https://github.com/wpeverest/ai-contact-form/releases/tag/1.0.0) in [wpeverest/ai-contact-form](https://github.com/wpeverest/ai-contact-form)
+5. 🚀 Published release [1.0.1](https://github.com/wpeverest/ai-contact-form/releases/tag/1.0.1) in [wpeverest/ai-contact-form](https://github.com/wpeverest/ai-contact-form)
+6. 🚀 Published release [2.0.5](https://github.com/wpeverest/everest-forms/releases/tag/2.0.5) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+7. 🎉 Merged PR [#1171](https://github.com/wpeverest/everest-forms/pull/1171) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+8. 🎉 Merged PR [#1176](https://github.com/wpeverest/everest-forms/pull/1176) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+9. 💪 Opened PR [#1176](https://github.com/wpeverest/everest-forms/pull/1176) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+10. 🎉 Merged PR [#1161](https://github.com/wpeverest/everest-forms/pull/1161) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 <!--END_SECTION:activity-->
 
 </details>
