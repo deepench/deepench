@@ -19,14 +19,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1382](https://github.com/wpeverest/everest-forms/pull/1382) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-2. ❌ Closed PR [#1381](https://github.com/wpeverest/everest-forms/pull/1381) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-3. 🎉 Merged PR [#1375](https://github.com/wpeverest/everest-forms/pull/1375) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-4. 🎉 Merged PR [#1384](https://github.com/wpeverest/everest-forms/pull/1384) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-5. 💪 Opened PR [#1384](https://github.com/wpeverest/everest-forms/pull/1384) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-6. 🚀 Published release [Release of 3.0.7.1](https://github.com/wpeverest/everest-forms/releases/tag/3.0.7.1) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-7. 🚀 Published release [Release of 3.0.6.1](https://github.com/wpeverest/everest-forms/releases/tag/3.0.6.1) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-8. 🚀 Published release [Release of 3.0.6.1](https://github.com/wpeverest/everest-forms/releases/tag/3.0.6.1) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+1. ❌ Closed PR [#1388](https://github.com/wpeverest/everest-forms/pull/1388) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+2. ❌ Closed PR [#1389](https://github.com/wpeverest/everest-forms/pull/1389) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+3. ❌ Closed PR [#1382](https://github.com/wpeverest/everest-forms/pull/1382) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+4. ❌ Closed PR [#1381](https://github.com/wpeverest/everest-forms/pull/1381) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+5. 🎉 Merged PR [#1375](https://github.com/wpeverest/everest-forms/pull/1375) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+6. 🎉 Merged PR [#1384](https://github.com/wpeverest/everest-forms/pull/1384) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+7. 💪 Opened PR [#1384](https://github.com/wpeverest/everest-forms/pull/1384) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+8. 🚀 Published release [Release of 3.0.7.1](https://github.com/wpeverest/everest-forms/releases/tag/3.0.7.1) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 9. 🚀 Published release [Release of 3.0.6.1](https://github.com/wpeverest/everest-forms/releases/tag/3.0.6.1) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 10. 🚀 Published release [Release of 3.0.6.1](https://github.com/wpeverest/everest-forms/releases/tag/3.0.6.1) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 <!--END_SECTION:activity-->
