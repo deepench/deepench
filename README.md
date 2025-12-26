@@ -19,9 +19,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#274](https://github.com/themegrill/themegrill-demo-pack/pull/274) in [themegrill/themegrill-demo-pack](https://github.com/themegrill/themegrill-demo-pack)
-2. 💪 Opened PR [#274](https://github.com/themegrill/themegrill-demo-pack/pull/274) in [themegrill/themegrill-demo-pack](https://github.com/themegrill/themegrill-demo-pack)
-3. 🎉 Merged PR [#273](https://github.com/themegrill/themegrill-demo-pack/pull/273) in [themegrill/themegrill-demo-pack](https://github.com/themegrill/themegrill-demo-pack)
+1. ❌ Labeled PR [#1081](undefined) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+2. 💪 Opened PR [#1081](undefined) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+3. ❌ Assigned PR [#1081](undefined) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
 4. 💪 Opened PR [#273](https://github.com/themegrill/themegrill-demo-pack/pull/273) in [themegrill/themegrill-demo-pack](https://github.com/themegrill/themegrill-demo-pack)
 5. 🗣 Commented on [#837](https://github.com/wpeverest/user-registration/pull/837#issuecomment-2826839479) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
 6. 🚀 Published release [Release of 3.0.8](https://github.com/wpeverest/everest-forms/releases/tag/3.0.8) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
