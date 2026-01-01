@@ -19,10 +19,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1081](undefined) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-2. ❌ Labeled PR [#1081](undefined) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-3. 💪 Opened PR [#1081](undefined) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
-4. ❌ Assigned PR [#1081](undefined) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+1. 🎉 Merged PR [#1081](https://github.com/wpeverest/user-registration/pull/1081) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+2. ℹ️ Labeled PR [#1081](https://github.com/wpeverest/user-registration/pull/1081) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+3. 💪 Opened PR [#1081](https://github.com/wpeverest/user-registration/pull/1081) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
+4. ℹ️ Assigned PR [#1081](https://github.com/wpeverest/user-registration/pull/1081) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
 5. 🗣 Commented on [#837](https://github.com/wpeverest/user-registration/pull/837#issuecomment-2826839479) in [wpeverest/user-registration](https://github.com/wpeverest/user-registration)
 6. 🚀 Published release [Release of 3.0.8](https://github.com/wpeverest/everest-forms/releases/tag/3.0.8) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 7. ❌ Closed PR [#1388](https://github.com/wpeverest/everest-forms/pull/1388) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
