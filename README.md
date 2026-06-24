@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120](https://github.com/Masteriyo/masteriyo-docs/pull/120) in [Masteriyo/masteriyo-docs](https://github.com/Masteriyo/masteriyo-docs)
-2. ❌ Closed PR [#1563](https://github.com/wpeverest/everest-forms/pull/1563) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-3. ❌ Closed PR [#1564](https://github.com/wpeverest/everest-forms/pull/1564) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-4. ❌ Closed PR [#1565](https://github.com/wpeverest/everest-forms/pull/1565) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-5. ❌ Closed PR [#1398](https://github.com/wpeverest/everest-forms/pull/1398) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-6. ❌ Closed PR [#1396](https://github.com/wpeverest/everest-forms/pull/1396) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-7. ❌ Closed PR [#1395](https://github.com/wpeverest/everest-forms/pull/1395) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-8. ❌ Closed PR [#1391](https://github.com/wpeverest/everest-forms/pull/1391) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-9. ❌ Closed PR [#1390](https://github.com/wpeverest/everest-forms/pull/1390) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-10. ❌ Closed PR [#1399](https://github.com/wpeverest/everest-forms/pull/1399) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+1. ❌ Closed PR [#1483](https://github.com/wpeverest/everest-forms/pull/1483) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+2. ❌ Closed PR [#1568](https://github.com/wpeverest/everest-forms/pull/1568) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+3. ❌ Closed PR [#1569](https://github.com/wpeverest/everest-forms/pull/1569) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+4. ❌ Closed PR [#1572](https://github.com/wpeverest/everest-forms/pull/1572) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+5. ❌ Closed PR [#1573](https://github.com/wpeverest/everest-forms/pull/1573) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+6. ❌ Closed PR [#1597](https://github.com/wpeverest/everest-forms/pull/1597) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+7. ❌ Closed PR [#1598](https://github.com/wpeverest/everest-forms/pull/1598) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+8. ❌ Closed PR [#1602](https://github.com/wpeverest/everest-forms/pull/1602) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+9. 💪 Opened PR [#121](https://github.com/Masteriyo/masteriyo-docs/pull/121) in [Masteriyo/masteriyo-docs](https://github.com/Masteriyo/masteriyo-docs)
+10. 🎉 Merged PR [#120](https://github.com/Masteriyo/masteriyo-docs/pull/120) in [Masteriyo/masteriyo-docs](https://github.com/Masteriyo/masteriyo-docs)
 <!--END_SECTION:activity-->
 
 </details>
