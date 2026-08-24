@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#296](https://github.com/themegrill/colormag/issues/296) in [themegrill/colormag](https://github.com/themegrill/colormag)
-2. ℹ️ Assigned PR [#297](https://github.com/themegrill/colormag/pull/297) in [themegrill/colormag](https://github.com/themegrill/colormag)
-3. 🗣 Commented on [#296](https://github.com/themegrill/colormag/issues/296#issuecomment-5390921179) in [themegrill/colormag](https://github.com/themegrill/colormag)
-4. 💪 Opened PR [#297](https://github.com/themegrill/colormag/pull/297) in [themegrill/colormag](https://github.com/themegrill/colormag)
-5. 🗣 Commented on [#1515](https://github.com/wpeverest/everest-forms/pull/1515#issuecomment-5352402160) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-6. ❌ Closed PR [#1515](https://github.com/wpeverest/everest-forms/pull/1515) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-7. 🗣 Commented on [#1618](https://github.com/wpeverest/everest-forms/pull/1618#issuecomment-5337706595) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-8. 🗣 Commented on [#1632](https://github.com/wpeverest/everest-forms/pull/1632#issuecomment-5325412796) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-9. ❌ Closed PR [#1639](https://github.com/wpeverest/everest-forms/pull/1639) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
-10. ❌ Closed PR [#1640](https://github.com/wpeverest/everest-forms/pull/1640) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+1. ℹ️ Assigned PR [#298](https://github.com/themegrill/colormag/pull/298) in [themegrill/colormag](https://github.com/themegrill/colormag)
+2. ℹ️ Assigned issue [#295](https://github.com/themegrill/colormag/issues/295) in [themegrill/colormag](https://github.com/themegrill/colormag)
+3. 🗣 Commented on [#295](https://github.com/themegrill/colormag/issues/295#issuecomment-5391558322) in [themegrill/colormag](https://github.com/themegrill/colormag)
+4. 💪 Opened PR [#298](https://github.com/themegrill/colormag/pull/298) in [themegrill/colormag](https://github.com/themegrill/colormag)
+5. ℹ️ Assigned issue [#296](https://github.com/themegrill/colormag/issues/296) in [themegrill/colormag](https://github.com/themegrill/colormag)
+6. ℹ️ Assigned PR [#297](https://github.com/themegrill/colormag/pull/297) in [themegrill/colormag](https://github.com/themegrill/colormag)
+7. 🗣 Commented on [#296](https://github.com/themegrill/colormag/issues/296#issuecomment-5390921179) in [themegrill/colormag](https://github.com/themegrill/colormag)
+8. 💪 Opened PR [#297](https://github.com/themegrill/colormag/pull/297) in [themegrill/colormag](https://github.com/themegrill/colormag)
+9. 🗣 Commented on [#1515](https://github.com/wpeverest/everest-forms/pull/1515#issuecomment-5352402160) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+10. ❌ Closed PR [#1515](https://github.com/wpeverest/everest-forms/pull/1515) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
 <!--END_SECTION:activity-->
 
 </details>
