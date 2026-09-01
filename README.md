@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#307](https://github.com/themegrill/colormag/pull/307) in [themegrill/colormag](https://github.com/themegrill/colormag)
-2. ℹ️ Labeled PR [#307](https://github.com/themegrill/colormag/pull/307) in [themegrill/colormag](https://github.com/themegrill/colormag)
-3. ℹ️ Assigned PR [#307](https://github.com/themegrill/colormag/pull/307) in [themegrill/colormag](https://github.com/themegrill/colormag)
-4. ℹ️ Assigned issue [#305](https://github.com/themegrill/colormag/issues/305) in [themegrill/colormag](https://github.com/themegrill/colormag)
-5. ℹ️ Unassigned issue [#306](https://github.com/themegrill/colormag/issues/306) in [themegrill/colormag](https://github.com/themegrill/colormag)
-6. 🗣 Commented on [#305](https://github.com/themegrill/colormag/issues/305#issuecomment-5475620008) in [themegrill/colormag](https://github.com/themegrill/colormag)
-7. ℹ️ Assigned issue [#306](https://github.com/themegrill/colormag/issues/306) in [themegrill/colormag](https://github.com/themegrill/colormag)
-8. 💪 Opened PR [#307](https://github.com/themegrill/colormag/pull/307) in [themegrill/colormag](https://github.com/themegrill/colormag)
-9. 💪 Opened PR [#301](https://github.com/themegrill/colormag/pull/301) in [themegrill/colormag](https://github.com/themegrill/colormag)
-10. 💪 Opened PR [#1649](https://github.com/wpeverest/everest-forms/pull/1649) in [wpeverest/everest-forms](https://github.com/wpeverest/everest-forms)
+1. ℹ️ Assigned PR [#309](https://github.com/themegrill/colormag/pull/309) in [themegrill/colormag](https://github.com/themegrill/colormag)
+2. ℹ️ Labeled issue [#306](https://github.com/themegrill/colormag/issues/306) in [themegrill/colormag](https://github.com/themegrill/colormag)
+3. ℹ️ Unlabeled issue [#306](https://github.com/themegrill/colormag/issues/306) in [themegrill/colormag](https://github.com/themegrill/colormag)
+4. 💪 Opened PR [#309](https://github.com/themegrill/colormag/pull/309) in [themegrill/colormag](https://github.com/themegrill/colormag)
+5. ℹ️ Labeled PR [#307](https://github.com/themegrill/colormag/pull/307) in [themegrill/colormag](https://github.com/themegrill/colormag)
+6. ℹ️ Labeled PR [#307](https://github.com/themegrill/colormag/pull/307) in [themegrill/colormag](https://github.com/themegrill/colormag)
+7. ℹ️ Assigned PR [#307](https://github.com/themegrill/colormag/pull/307) in [themegrill/colormag](https://github.com/themegrill/colormag)
+8. ℹ️ Assigned issue [#305](https://github.com/themegrill/colormag/issues/305) in [themegrill/colormag](https://github.com/themegrill/colormag)
+9. ℹ️ Unassigned issue [#306](https://github.com/themegrill/colormag/issues/306) in [themegrill/colormag](https://github.com/themegrill/colormag)
+10. 🗣 Commented on [#305](https://github.com/themegrill/colormag/issues/305#issuecomment-5475620008) in [themegrill/colormag](https://github.com/themegrill/colormag)
 <!--END_SECTION:activity-->
 
 </details>
