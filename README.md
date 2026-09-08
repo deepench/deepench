@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-2. ℹ️ Labeled PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+1. 🗣 Commented on [#1424](https://github.com/themegrill/user-registration/pull/1424#issuecomment-5579590430) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+2. 🗣 Commented on [#1403](https://github.com/themegrill/user-registration/pull/1403#issuecomment-5578596075) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
 3. ℹ️ Labeled PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-4. ℹ️ Assigned PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-5. 💪 Opened PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-6. 💪 Opened PR [#1417](https://github.com/themegrill/user-registration/pull/1417) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-7. 🎉 Merged PR [#312](https://github.com/themegrill/colormag/pull/312) in [themegrill/colormag](https://github.com/themegrill/colormag)
-8. 🎉 Merged PR [#1649](https://github.com/themegrill/everest-forms/pull/1649) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-9. 🗣 Commented on [#1649](https://github.com/themegrill/everest-forms/pull/1649#issuecomment-5520627970) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-10. 💪 Opened PR [#312](https://github.com/themegrill/colormag/pull/312) in [themegrill/colormag](https://github.com/themegrill/colormag)
+4. ℹ️ Labeled PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+5. ℹ️ Labeled PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+6. ℹ️ Assigned PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+7. 💪 Opened PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+8. 💪 Opened PR [#1417](https://github.com/themegrill/user-registration/pull/1417) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+9. 🎉 Merged PR [#312](https://github.com/themegrill/colormag/pull/312) in [themegrill/colormag](https://github.com/themegrill/colormag)
+10. 🎉 Merged PR [#1649](https://github.com/themegrill/everest-forms/pull/1649) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
 <!--END_SECTION:activity-->
 
 </details>
