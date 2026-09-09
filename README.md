@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#293](https://github.com/themegrill/colormag/issues/293) in [themegrill/colormag](https://github.com/themegrill/colormag)
-2. 🔒 Closed issue [#294](https://github.com/themegrill/colormag/issues/294) in [themegrill/colormag](https://github.com/themegrill/colormag)
-3. 🔒 Closed issue [#295](https://github.com/themegrill/colormag/issues/295) in [themegrill/colormag](https://github.com/themegrill/colormag)
-4. 🔒 Closed issue [#296](https://github.com/themegrill/colormag/issues/296) in [themegrill/colormag](https://github.com/themegrill/colormag)
-5. 🔒 Closed issue [#305](https://github.com/themegrill/colormag/issues/305) in [themegrill/colormag](https://github.com/themegrill/colormag)
-6. 🗣 Commented on [#1419](https://github.com/themegrill/user-registration/pull/1419#issuecomment-5582062986) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-7. 🗣 Commented on [#1419](https://github.com/themegrill/user-registration/pull/1419#issuecomment-5582033696) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-8. ℹ️ Labeled PR [#1427](https://github.com/themegrill/user-registration/pull/1427) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-9. ℹ️ Labeled PR [#1427](https://github.com/themegrill/user-registration/pull/1427) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-10. ℹ️ Labeled PR [#1427](https://github.com/themegrill/user-registration/pull/1427) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+1. 🎉 Merged PR [#1427](https://github.com/themegrill/user-registration/pull/1427) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+2. 🎉 Merged PR [#1417](https://github.com/themegrill/user-registration/pull/1417) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+3. 🎉 Merged PR [#1419](https://github.com/themegrill/user-registration/pull/1419) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+4. ℹ️ Labeled PR [#1417](https://github.com/themegrill/user-registration/pull/1417) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+5. ℹ️ Labeled PR [#1417](https://github.com/themegrill/user-registration/pull/1417) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+6. ℹ️ Labeled PR [#1417](https://github.com/themegrill/user-registration/pull/1417) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+7. ℹ️ Assigned PR [#1417](https://github.com/themegrill/user-registration/pull/1417) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+8. 🔒 Closed issue [#293](https://github.com/themegrill/colormag/issues/293) in [themegrill/colormag](https://github.com/themegrill/colormag)
+9. 🔒 Closed issue [#294](https://github.com/themegrill/colormag/issues/294) in [themegrill/colormag](https://github.com/themegrill/colormag)
+10. 🔒 Closed issue [#295](https://github.com/themegrill/colormag/issues/295) in [themegrill/colormag](https://github.com/themegrill/colormag)
 <!--END_SECTION:activity-->
 
 </details>
