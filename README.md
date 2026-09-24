@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#101](https://github.com/themegrill/spacious/pull/101) in [themegrill/spacious](https://github.com/themegrill/spacious)
-2. ℹ️ Labeled PR [#1450](https://github.com/themegrill/user-registration/pull/1450) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-3. ℹ️ Assigned PR [#1450](https://github.com/themegrill/user-registration/pull/1450) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-4. ℹ️ Labeled PR [#1453](https://github.com/themegrill/user-registration/pull/1453) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-5. ℹ️ Assigned PR [#1453](https://github.com/themegrill/user-registration/pull/1453) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-6. 💪 Opened PR [#1453](https://github.com/themegrill/user-registration/pull/1453) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-7. ℹ️ Labeled PR [#1452](https://github.com/themegrill/user-registration/pull/1452) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-8. ℹ️ Assigned PR [#1452](https://github.com/themegrill/user-registration/pull/1452) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-9. 🗣 Commented on [#1452](https://github.com/themegrill/user-registration/pull/1452#issuecomment-5696137013) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-10. 💪 Opened PR [#1452](https://github.com/themegrill/user-registration/pull/1452) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+1. ℹ️ Labeled PR [#139](https://github.com/themegrill/spacious/pull/139) in [themegrill/spacious](https://github.com/themegrill/spacious)
+2. ℹ️ Assigned PR [#139](https://github.com/themegrill/spacious/pull/139) in [themegrill/spacious](https://github.com/themegrill/spacious)
+3. 💪 Opened PR [#139](https://github.com/themegrill/spacious/pull/139) in [themegrill/spacious](https://github.com/themegrill/spacious)
+4. ℹ️ Labeled PR [#138](https://github.com/themegrill/spacious/pull/138) in [themegrill/spacious](https://github.com/themegrill/spacious)
+5. ℹ️ Assigned PR [#138](https://github.com/themegrill/spacious/pull/138) in [themegrill/spacious](https://github.com/themegrill/spacious)
+6. 💪 Opened PR [#138](https://github.com/themegrill/spacious/pull/138) in [themegrill/spacious](https://github.com/themegrill/spacious)
+7. ❌ Closed PR [#101](https://github.com/themegrill/spacious/pull/101) in [themegrill/spacious](https://github.com/themegrill/spacious)
+8. ℹ️ Labeled PR [#1450](https://github.com/themegrill/user-registration/pull/1450) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+9. ℹ️ Assigned PR [#1450](https://github.com/themegrill/user-registration/pull/1450) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+10. ℹ️ Labeled PR [#1453](https://github.com/themegrill/user-registration/pull/1453) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
 <!--END_SECTION:activity-->
 
 </details>
