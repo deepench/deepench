@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/themegrill/spacious/pull/149) in [themegrill/spacious](https://github.com/themegrill/spacious)
-2. 🎉 Merged PR [#145](https://github.com/themegrill/spacious/pull/145) in [themegrill/spacious](https://github.com/themegrill/spacious)
-3. 🎉 Merged PR [#138](https://github.com/themegrill/spacious/pull/138) in [themegrill/spacious](https://github.com/themegrill/spacious)
-4. 🎉 Merged PR [#139](https://github.com/themegrill/spacious/pull/139) in [themegrill/spacious](https://github.com/themegrill/spacious)
-5. ❌ Closed PR [#82](https://github.com/themegrill/flash/pull/82) in [themegrill/flash](https://github.com/themegrill/flash)
-6. ❌ Closed PR [#103](https://github.com/themegrill/flash/pull/103) in [themegrill/flash](https://github.com/themegrill/flash)
-7. ❌ Closed PR [#96](https://github.com/themegrill/flash/pull/96) in [themegrill/flash](https://github.com/themegrill/flash)
-8. ❌ Closed PR [#87](https://github.com/themegrill/flash/pull/87) in [themegrill/flash](https://github.com/themegrill/flash)
-9. ❌ Closed PR [#88](https://github.com/themegrill/flash/pull/88) in [themegrill/flash](https://github.com/themegrill/flash)
-10. ❌ Closed PR [#90](https://github.com/themegrill/flash/pull/90) in [themegrill/flash](https://github.com/themegrill/flash)
+1. 🗣 Commented on [#153](https://github.com/themegrill/spacious/pull/153#issuecomment-5868828594) in [themegrill/spacious](https://github.com/themegrill/spacious)
+2. 💪 Opened PR [#153](https://github.com/themegrill/spacious/pull/153) in [themegrill/spacious](https://github.com/themegrill/spacious)
+3. ℹ️ Labeled PR [#66](https://github.com/themegrill/flash-toolkit/pull/66) in [themegrill/flash-toolkit](https://github.com/themegrill/flash-toolkit)
+4. ℹ️ Assigned PR [#66](https://github.com/themegrill/flash-toolkit/pull/66) in [themegrill/flash-toolkit](https://github.com/themegrill/flash-toolkit)
+5. 💪 Opened PR [#66](https://github.com/themegrill/flash-toolkit/pull/66) in [themegrill/flash-toolkit](https://github.com/themegrill/flash-toolkit)
+6. ℹ️ Labeled PR [#115](https://github.com/themegrill/flash/pull/115) in [themegrill/flash](https://github.com/themegrill/flash)
+7. ℹ️ Assigned PR [#115](https://github.com/themegrill/flash/pull/115) in [themegrill/flash](https://github.com/themegrill/flash)
+8. 💪 Opened PR [#115](https://github.com/themegrill/flash/pull/115) in [themegrill/flash](https://github.com/themegrill/flash)
+9. ℹ️ Labeled PR [#112](https://github.com/themegrill/flash/pull/112) in [themegrill/flash](https://github.com/themegrill/flash)
+10. ℹ️ Assigned PR [#112](https://github.com/themegrill/flash/pull/112) in [themegrill/flash](https://github.com/themegrill/flash)
 <!--END_SECTION:activity-->
 
 </details>
