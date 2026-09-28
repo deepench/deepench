@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#149](https://github.com/themegrill/spacious/pull/149) in [themegrill/spacious](https://github.com/themegrill/spacious)
-2. ℹ️ Assigned PR [#149](https://github.com/themegrill/spacious/pull/149) in [themegrill/spacious](https://github.com/themegrill/spacious)
-3. 🗣 Commented on [#138](https://github.com/themegrill/spacious/pull/138#issuecomment-5830403675) in [themegrill/spacious](https://github.com/themegrill/spacious)
-4. 💪 Opened PR [#149](https://github.com/themegrill/spacious/pull/149) in [themegrill/spacious](https://github.com/themegrill/spacious)
-5. ℹ️ Labeled PR [#146](https://github.com/themegrill/spacious/pull/146) in [themegrill/spacious](https://github.com/themegrill/spacious)
-6. ℹ️ Assigned PR [#146](https://github.com/themegrill/spacious/pull/146) in [themegrill/spacious](https://github.com/themegrill/spacious)
-7. 💪 Opened PR [#146](https://github.com/themegrill/spacious/pull/146) in [themegrill/spacious](https://github.com/themegrill/spacious)
-8. 🎉 Merged PR [#141](https://github.com/themegrill/spacious/pull/141) in [themegrill/spacious](https://github.com/themegrill/spacious)
-9. ℹ️ Labeled PR [#145](https://github.com/themegrill/spacious/pull/145) in [themegrill/spacious](https://github.com/themegrill/spacious)
-10. ℹ️ Assigned PR [#145](https://github.com/themegrill/spacious/pull/145) in [themegrill/spacious](https://github.com/themegrill/spacious)
+1. 🎉 Merged PR [#149](https://github.com/themegrill/spacious/pull/149) in [themegrill/spacious](https://github.com/themegrill/spacious)
+2. 🎉 Merged PR [#145](https://github.com/themegrill/spacious/pull/145) in [themegrill/spacious](https://github.com/themegrill/spacious)
+3. 🎉 Merged PR [#138](https://github.com/themegrill/spacious/pull/138) in [themegrill/spacious](https://github.com/themegrill/spacious)
+4. 🎉 Merged PR [#139](https://github.com/themegrill/spacious/pull/139) in [themegrill/spacious](https://github.com/themegrill/spacious)
+5. ❌ Closed PR [#82](https://github.com/themegrill/flash/pull/82) in [themegrill/flash](https://github.com/themegrill/flash)
+6. ❌ Closed PR [#103](https://github.com/themegrill/flash/pull/103) in [themegrill/flash](https://github.com/themegrill/flash)
+7. ❌ Closed PR [#96](https://github.com/themegrill/flash/pull/96) in [themegrill/flash](https://github.com/themegrill/flash)
+8. ❌ Closed PR [#87](https://github.com/themegrill/flash/pull/87) in [themegrill/flash](https://github.com/themegrill/flash)
+9. ❌ Closed PR [#88](https://github.com/themegrill/flash/pull/88) in [themegrill/flash](https://github.com/themegrill/flash)
+10. ❌ Closed PR [#90](https://github.com/themegrill/flash/pull/90) in [themegrill/flash](https://github.com/themegrill/flash)
 <!--END_SECTION:activity-->
 
 </details>
