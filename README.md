@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#69](https://github.com/themegrill/himalayas/pull/69) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
-2. ℹ️ Assigned PR [#69](https://github.com/themegrill/himalayas/pull/69) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
-3. ℹ️ Assigned PR [#70](https://github.com/themegrill/himalayas/pull/70) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
-4. ℹ️ Labeled PR [#70](https://github.com/themegrill/himalayas/pull/70) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
-5. 💪 Opened PR [#70](https://github.com/themegrill/himalayas/pull/70) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
-6. 🎉 Merged PR [#93](https://github.com/themegrill/accelerate/pull/93) in [themegrill/accelerate](https://github.com/themegrill/accelerate)
-7. 💪 Opened PR [#61](https://github.com/themegrill/cenote/pull/61) in [themegrill/cenote](https://github.com/themegrill/cenote)
-8. 💪 Opened PR [#69](https://github.com/themegrill/himalayas/pull/69) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
-9. 💪 Opened PR [#56](https://github.com/themegrill/ample/pull/56) in [themegrill/ample](https://github.com/themegrill/ample)
-10. ❌ Closed PR [#48](https://github.com/themegrill/cenote/pull/48) in [themegrill/cenote](https://github.com/themegrill/cenote)
+1. 🎉 Merged PR [#71](https://github.com/themegrill/himalayas/pull/71) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
+2. 🚀 Published release [1.3.6](https://github.com/themegrill/himalayas/releases/tag/v1.3.6) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
+3. 🎉 Merged PR [#69](https://github.com/themegrill/himalayas/pull/69) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
+4. 🎉 Merged PR [#1446](https://github.com/themegrill/user-registration/pull/1446) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
+5. ℹ️ Assigned PR [#71](https://github.com/themegrill/himalayas/pull/71) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
+6. 💪 Opened PR [#71](https://github.com/themegrill/himalayas/pull/71) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
+7. 🎉 Merged PR [#70](https://github.com/themegrill/himalayas/pull/70) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
+8. ℹ️ Labeled PR [#69](https://github.com/themegrill/himalayas/pull/69) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
+9. ℹ️ Assigned PR [#69](https://github.com/themegrill/himalayas/pull/69) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
+10. ℹ️ Assigned PR [#70](https://github.com/themegrill/himalayas/pull/70) in [themegrill/himalayas](https://github.com/themegrill/himalayas)
 <!--END_SECTION:activity-->
 
 </details>
