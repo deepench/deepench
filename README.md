@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.3.9](https://github.com/themegrill/ample/releases/tag/v1.3.9) in [themegrill/ample](https://github.com/themegrill/ample)
-2. 🚀 Published release [1.6.13](https://github.com/themegrill/estore/releases/tag/v1.6.13) in [themegrill/estore](https://github.com/themegrill/estore)
-3. 🚀 Published release [1.6.12](https://github.com/themegrill/estore/releases/tag/v1.6.12) in [themegrill/estore](https://github.com/themegrill/estore)
-4. 🎉 Merged PR [#145](https://github.com/themegrill/estore/pull/145) in [themegrill/estore](https://github.com/themegrill/estore)
-5. 🎉 Merged PR [#1441](https://github.com/themegrill/user-registration/pull/1441) in [themegrill/user-registration](https://github.com/themegrill/user-registration)
-6. ℹ️ Assigned PR [#145](https://github.com/themegrill/estore/pull/145) in [themegrill/estore](https://github.com/themegrill/estore)
-7. 💪 Opened PR [#145](https://github.com/themegrill/estore/pull/145) in [themegrill/estore](https://github.com/themegrill/estore)
-8. ❌ Closed PR [#60](https://github.com/themegrill/cenote/pull/60) in [themegrill/cenote](https://github.com/themegrill/cenote)
-9. 🎉 Merged PR [#61](https://github.com/themegrill/cenote/pull/61) in [themegrill/cenote](https://github.com/themegrill/cenote)
-10. 🎉 Merged PR [#56](https://github.com/themegrill/ample/pull/56) in [themegrill/ample](https://github.com/themegrill/ample)
+1. 🔒 Closed issue [#136](https://github.com/themegrill/themegrill-demo-importer/issues/136) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+2. 🎉 Merged PR [#159](https://github.com/themegrill/themegrill-demo-importer/pull/159) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+3. ℹ️ Assigned PR [#159](https://github.com/themegrill/themegrill-demo-importer/pull/159) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+4. 💪 Opened PR [#159](https://github.com/themegrill/themegrill-demo-importer/pull/159) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+5. 🗣 Commented on [#152](https://github.com/themegrill/themegrill-demo-importer/pull/152#issuecomment-6053553588) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+6. 🗣 Commented on [#152](https://github.com/themegrill/themegrill-demo-importer/pull/152#issuecomment-6052820875) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+7. 🗣 Commented on [#152](https://github.com/themegrill/themegrill-demo-importer/pull/152#issuecomment-6052548645) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+8. 🗣 Commented on [#153](https://github.com/themegrill/themegrill-demo-importer/pull/153#issuecomment-6052549038) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+9. 🗣 Commented on [#147](https://github.com/themegrill/themegrill-demo-importer/pull/147#issuecomment-6052548270) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+10. 🗣 Commented on [#153](https://github.com/themegrill/themegrill-demo-importer/pull/153#issuecomment-6052291922) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
 <!--END_SECTION:activity-->
 
 </details>
