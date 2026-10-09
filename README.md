@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/themegrill/themegrill-demo-importer/issues/171#issuecomment-6079536093) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-2. 🗣 Commented on [#170](https://github.com/themegrill/themegrill-demo-importer/issues/170#issuecomment-6079535630) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-3. 🗣 Commented on [#170](https://github.com/themegrill/themegrill-demo-importer/issues/170#issuecomment-6079756582) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-4. 🗣 Commented on [#164](https://github.com/themegrill/themegrill-demo-importer/issues/164#issuecomment-6074737998) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-5. ❌ Closed PR [#147](https://github.com/themegrill/themegrill-demo-importer/pull/147) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-6. 🗣 Commented on [#167](https://github.com/themegrill/themegrill-demo-importer/issues/167#issuecomment-6074314177) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-7. 🗣 Commented on [#166](https://github.com/themegrill/themegrill-demo-importer/issues/166#issuecomment-6074142574) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-8. 🗣 Commented on [#165](https://github.com/themegrill/themegrill-demo-importer/issues/165#issuecomment-6074142251) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-9. 🗣 Commented on [#164](https://github.com/themegrill/themegrill-demo-importer/issues/164#issuecomment-6074141827) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
-10. 🗣 Commented on [#163](https://github.com/themegrill/themegrill-demo-importer/issues/163#issuecomment-6074141495) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+1. 🗣 Commented on [#171](https://github.com/themegrill/themegrill-demo-importer/issues/171#issuecomment-6079813896) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+2. 🗣 Commented on [#171](https://github.com/themegrill/themegrill-demo-importer/issues/171#issuecomment-6079536093) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+3. 🗣 Commented on [#170](https://github.com/themegrill/themegrill-demo-importer/issues/170#issuecomment-6079535630) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+4. 🗣 Commented on [#170](https://github.com/themegrill/themegrill-demo-importer/issues/170#issuecomment-6079756582) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+5. 🗣 Commented on [#164](https://github.com/themegrill/themegrill-demo-importer/issues/164#issuecomment-6074737998) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+6. ❌ Closed PR [#147](https://github.com/themegrill/themegrill-demo-importer/pull/147) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+7. 🗣 Commented on [#167](https://github.com/themegrill/themegrill-demo-importer/issues/167#issuecomment-6074314177) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+8. 🗣 Commented on [#166](https://github.com/themegrill/themegrill-demo-importer/issues/166#issuecomment-6074142574) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+9. 🗣 Commented on [#165](https://github.com/themegrill/themegrill-demo-importer/issues/165#issuecomment-6074142251) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+10. 🗣 Commented on [#164](https://github.com/themegrill/themegrill-demo-importer/issues/164#issuecomment-6074141827) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
 <!--END_SECTION:activity-->
 
 </details>
