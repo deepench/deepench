@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1673](https://github.com/themegrill/everest-forms/pull/1673) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-2. 💪 Opened PR [#1672](https://github.com/themegrill/everest-forms/pull/1672) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-3. ❌ Closed PR [#1647](https://github.com/themegrill/everest-forms/pull/1647) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-4. ❌ Closed PR [#1648](https://github.com/themegrill/everest-forms/pull/1648) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-5. ❌ Closed PR [#1650](https://github.com/themegrill/everest-forms/pull/1650) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-6. ❌ Closed PR [#1651](https://github.com/themegrill/everest-forms/pull/1651) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-7. ❌ Closed PR [#1652](https://github.com/themegrill/everest-forms/pull/1652) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-8. ℹ️ Assigned PR [#148](https://github.com/themegrill/estore/pull/148) in [themegrill/estore](https://github.com/themegrill/estore)
-9. 💪 Opened PR [#148](https://github.com/themegrill/estore/pull/148) in [themegrill/estore](https://github.com/themegrill/estore)
-10. 🚀 Published release [2.1.4](https://github.com/themegrill/themegrill-demo-importer/releases/tag/2.1.4) in [themegrill/themegrill-demo-importer](https://github.com/themegrill/themegrill-demo-importer)
+1. 🗣 Commented on [#1599](https://github.com/themegrill/everest-forms/pull/1599#issuecomment-6160987185) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+2. ❌ Closed PR [#1599](https://github.com/themegrill/everest-forms/pull/1599) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+3. 🚀 Published release [1.6.14](https://github.com/themegrill/estore/releases/tag/v1.6.14) in [themegrill/estore](https://github.com/themegrill/estore)
+4. 🎉 Merged PR [#148](https://github.com/themegrill/estore/pull/148) in [themegrill/estore](https://github.com/themegrill/estore)
+5. 💪 Opened PR [#1673](https://github.com/themegrill/everest-forms/pull/1673) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+6. 💪 Opened PR [#1672](https://github.com/themegrill/everest-forms/pull/1672) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+7. ❌ Closed PR [#1647](https://github.com/themegrill/everest-forms/pull/1647) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+8. ❌ Closed PR [#1648](https://github.com/themegrill/everest-forms/pull/1648) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+9. ❌ Closed PR [#1650](https://github.com/themegrill/everest-forms/pull/1650) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+10. ❌ Closed PR [#1651](https://github.com/themegrill/everest-forms/pull/1651) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
 <!--END_SECTION:activity-->
 
 </details>
