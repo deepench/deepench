@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-2. 🗣 Commented on [#1674](https://github.com/themegrill/everest-forms/pull/1674#issuecomment-6569853014) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-3. ℹ️ Labeled PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-4. ℹ️ Assigned PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-5. 🚀 Published release [v4.2.6](https://github.com/themegrill/colormag/releases/tag/v4.2.6) in [themegrill/colormag](https://github.com/themegrill/colormag)
-6. 🎉 Merged PR [#356](https://github.com/themegrill/colormag/pull/356) in [themegrill/colormag](https://github.com/themegrill/colormag)
-7. ℹ️ Assigned PR [#356](https://github.com/themegrill/colormag/pull/356) in [themegrill/colormag](https://github.com/themegrill/colormag)
-8. 💪 Opened PR [#356](https://github.com/themegrill/colormag/pull/356) in [themegrill/colormag](https://github.com/themegrill/colormag)
-9. 🎉 Merged PR [#354](https://github.com/themegrill/colormag/pull/354) in [themegrill/colormag](https://github.com/themegrill/colormag)
-10. 🎉 Merged PR [#348](https://github.com/themegrill/colormag/pull/348) in [themegrill/colormag](https://github.com/themegrill/colormag)
+1. 🚀 Published release [Release of 3.6.4](https://github.com/themegrill/everest-forms/releases/tag/3.6.4) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+2. 🎉 Merged PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+3. 🗣 Commented on [#1674](https://github.com/themegrill/everest-forms/pull/1674#issuecomment-6569853014) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+4. ℹ️ Labeled PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+5. ℹ️ Assigned PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+6. 🚀 Published release [v4.2.6](https://github.com/themegrill/colormag/releases/tag/v4.2.6) in [themegrill/colormag](https://github.com/themegrill/colormag)
+7. 🎉 Merged PR [#356](https://github.com/themegrill/colormag/pull/356) in [themegrill/colormag](https://github.com/themegrill/colormag)
+8. ℹ️ Assigned PR [#356](https://github.com/themegrill/colormag/pull/356) in [themegrill/colormag](https://github.com/themegrill/colormag)
+9. 💪 Opened PR [#356](https://github.com/themegrill/colormag/pull/356) in [themegrill/colormag](https://github.com/themegrill/colormag)
+10. 🎉 Merged PR [#354](https://github.com/themegrill/colormag/pull/354) in [themegrill/colormag](https://github.com/themegrill/colormag)
 <!--END_SECTION:activity-->
 
 </details>
