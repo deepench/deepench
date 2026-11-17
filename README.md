@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1683](https://github.com/themegrill/everest-forms/pull/1683#issuecomment-6907746399) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-2. 🗣 Commented on [#1682](https://github.com/themegrill/everest-forms/pull/1682#issuecomment-6907745934) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-3. ℹ️ Labeled PR [#1684](https://github.com/themegrill/everest-forms/pull/1684) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-4. ℹ️ Assigned PR [#1684](https://github.com/themegrill/everest-forms/pull/1684) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-5. 💪 Opened PR [#1684](https://github.com/themegrill/everest-forms/pull/1684) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-6. 🚀 Published release [Release of 3.6.4](https://github.com/themegrill/everest-forms/releases/tag/3.6.4) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-7. 🎉 Merged PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-8. 🗣 Commented on [#1674](https://github.com/themegrill/everest-forms/pull/1674#issuecomment-6569853014) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-9. ℹ️ Labeled PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
-10. ℹ️ Assigned PR [#1674](https://github.com/themegrill/everest-forms/pull/1674) in [themegrill/everest-forms](https://github.com/themegrill/everest-forms)
+1. 🗣 Commented on [#306](https://github.com/themegrill/colormag/issues/306#issuecomment-6941647653) in [themegrill/colormag](https://github.com/themegrill/colormag)
+2. 🗣 Commented on [#358](https://github.com/themegrill/colormag/issues/358#issuecomment-6941645957) in [themegrill/colormag](https://github.com/themegrill/colormag)
+3. 🗣 Commented on [#321](https://github.com/themegrill/colormag/issues/321#issuecomment-6941651736) in [themegrill/colormag](https://github.com/themegrill/colormag)
+4. 🔒 Closed issue [#321](https://github.com/themegrill/colormag/issues/321) in [themegrill/colormag](https://github.com/themegrill/colormag)
+5. 🔒 Closed issue [#325](https://github.com/themegrill/colormag/issues/325) in [themegrill/colormag](https://github.com/themegrill/colormag)
+6. 🔒 Closed issue [#323](https://github.com/themegrill/colormag/issues/323) in [themegrill/colormag](https://github.com/themegrill/colormag)
+7. 🗣 Commented on [#323](https://github.com/themegrill/colormag/issues/323#issuecomment-6941650892) in [themegrill/colormag](https://github.com/themegrill/colormag)
+8. 🗣 Commented on [#325](https://github.com/themegrill/colormag/issues/325#issuecomment-6941649654) in [themegrill/colormag](https://github.com/themegrill/colormag)
+9. 🗣 Commented on [#342](https://github.com/themegrill/colormag/issues/342#issuecomment-6941648547) in [themegrill/colormag](https://github.com/themegrill/colormag)
+10. 🔒 Closed issue [#342](https://github.com/themegrill/colormag/issues/342) in [themegrill/colormag](https://github.com/themegrill/colormag)
 <!--END_SECTION:activity-->
 
 </details>
