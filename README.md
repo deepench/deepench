@@ -19,16 +19,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#367](https://github.com/themegrill/colormag/pull/367) in [themegrill/colormag](https://github.com/themegrill/colormag)
-2. ℹ️ Assigned PR [#367](https://github.com/themegrill/colormag/pull/367) in [themegrill/colormag](https://github.com/themegrill/colormag)
-3. 💪 Opened PR [#367](https://github.com/themegrill/colormag/pull/367) in [themegrill/colormag](https://github.com/themegrill/colormag)
-4. ℹ️ Assigned PR [#366](https://github.com/themegrill/colormag/pull/366) in [themegrill/colormag](https://github.com/themegrill/colormag)
-5. ℹ️ Labeled PR [#366](https://github.com/themegrill/colormag/pull/366) in [themegrill/colormag](https://github.com/themegrill/colormag)
-6. 💪 Opened PR [#366](https://github.com/themegrill/colormag/pull/366) in [themegrill/colormag](https://github.com/themegrill/colormag)
-7. ℹ️ Assigned PR [#365](https://github.com/themegrill/colormag/pull/365) in [themegrill/colormag](https://github.com/themegrill/colormag)
-8. 💪 Opened PR [#365](https://github.com/themegrill/colormag/pull/365) in [themegrill/colormag](https://github.com/themegrill/colormag)
-9. ℹ️ Assigned PR [#364](https://github.com/themegrill/colormag/pull/364) in [themegrill/colormag](https://github.com/themegrill/colormag)
-10. 💪 Opened PR [#364](https://github.com/themegrill/colormag/pull/364) in [themegrill/colormag](https://github.com/themegrill/colormag)
+1. ℹ️ Labeled PR [#368](https://github.com/themegrill/colormag/pull/368) in [themegrill/colormag](https://github.com/themegrill/colormag)
+2. ℹ️ Assigned PR [#368](https://github.com/themegrill/colormag/pull/368) in [themegrill/colormag](https://github.com/themegrill/colormag)
+3. ℹ️ Labeled PR [#368](https://github.com/themegrill/colormag/pull/368) in [themegrill/colormag](https://github.com/themegrill/colormag)
+4. 💪 Opened PR [#368](https://github.com/themegrill/colormag/pull/368) in [themegrill/colormag](https://github.com/themegrill/colormag)
+5. 🎉 Merged PR [#362](https://github.com/themegrill/colormag/pull/362) in [themegrill/colormag](https://github.com/themegrill/colormag)
+6. 🎉 Merged PR [#363](https://github.com/themegrill/colormag/pull/363) in [themegrill/colormag](https://github.com/themegrill/colormag)
+7. 🎉 Merged PR [#364](https://github.com/themegrill/colormag/pull/364) in [themegrill/colormag](https://github.com/themegrill/colormag)
+8. 🎉 Merged PR [#365](https://github.com/themegrill/colormag/pull/365) in [themegrill/colormag](https://github.com/themegrill/colormag)
+9. 🎉 Merged PR [#366](https://github.com/themegrill/colormag/pull/366) in [themegrill/colormag](https://github.com/themegrill/colormag)
+10. 🎉 Merged PR [#367](https://github.com/themegrill/colormag/pull/367) in [themegrill/colormag](https://github.com/themegrill/colormag)
 <!--END_SECTION:activity-->
 
 </details>
